@@ -18,4 +18,3 @@ Run `docker build . -t bitcoin_price` to build a docker image.
 ### Run
 There is an docker image you can use for you don't need to build the code yourself,
 `docker run amscotti/bitcoin_price`
-
