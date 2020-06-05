@@ -1,5 +1,6 @@
 FROM openjdk:8-alpine
 
+
 # Disable warnings
 ENV LEIN_ROOT=1
 
